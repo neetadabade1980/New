@@ -38,7 +38,9 @@ public class CreateCampaignsTest extends BaseClass {
 	
 	//pushToBranch
 	
-	// push jenkins
+	// push jenkins2
+	
+	// push jenkin2
 	@Test() 
 	public void createCampaignsTest() throws Throwable {
 
